@@ -1,5 +1,3 @@
-# Janie
-
 <!-- 메인 타이틀 -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" /> -->
 <!-- 타이핑 애니메이션 -->
