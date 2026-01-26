@@ -6,7 +6,7 @@
 </a> -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=ffdfea&height=200&section=header&text=Hi+there!+👋+I'm+Yujin&desc=Cloud+Engineer+💻&fontSize=45&descAlignY=65&descAlign=50" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffdfea&height=200&section=header&text=Hi+there!+I'm+Yujin&desc=Cloud+Engineer+💻&fontSize=45&descAlignY=65&descAlign=50" alt="Header"/>
 
 ## 📚 Education
 * 인하대학교 정보통신공학과 졸업예정 2022.02~
