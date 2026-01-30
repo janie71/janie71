@@ -39,7 +39,7 @@
 
 | **Project**        | **Terms**            | **Topic**                                       | **Data**                     | **GitHub**                                                                 |
 |----------------------|:------------------:|:---------------------------------------------:|:------------------------------:|:-----------------------------------------------------------------------------:|
-|   JavaStreamAPI    | *2026.01.07* |  Java Stream API 설명과 Stream API 사용 시 주의해야 할 7가지  |  -  | [금융 소비 데이터 시각화](https://github.com/janie71/ELK-Financial-Customer-Insight.git)   |
+|   JavaStreamAPI    | *2026.01.07* |  Java Stream API 설명과 Stream API 사용 시 주의해야 할 7가지  |  -  | [Java-Stream](https://github.com/janie71/Java-Stream.git)   |
 |   ELK기반 우리카드 잠재 고객 분석 프로젝트    | *2026.01.15* |  Elasticsearch와 Kibana를 활용한 우리카드 데이터 분석 및 잠재 고객 유치 전략 수립  |  금융 카드 실무 데이터  | [금융 소비 데이터 시각화](https://github.com/janie71/ELK-Financial-Customer-Insight.git)   |
 
 
