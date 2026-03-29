@@ -62,4 +62,4 @@
 ### 📚 Certification
 * **AWS Certified Cloud Practitioner (CLF-C02)**
 * **SQLD**
-* **TOEIC Speaking IM3**
+* **TOEIC Speaking IH**
