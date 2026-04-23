@@ -29,9 +29,7 @@
 
 | **Project**        | **Terms**            | **Topic**                                       | **GitHub**                                                                 |
 |----------------------|:------------------:|:---------------------------------------------:|:-----------------------------------------------------------------------------:|
-|   VMware 이중화 설계    | *2026.03.06~03.13* |  단일 장애점을 제거한 고가용성 이중화 데이터센터 구축  | [VMware-TeamLab](https://github.com/janie71/VMware-TeamLab.git)   |
-
-
+|   VMware 이중화 설계    | *2026.03.05~03.13* |  단일 장애점을 제거한 고가용성 이중화 데이터센터 구축  | [VMware-TeamLab](https://github.com/janie71/VMware-TeamLab.git)   |
 
 
 ### 💳 Financial Service Projects
@@ -42,19 +40,19 @@
 |   ELK기반 우리카드 잠재 고객 분석 프로젝트    | *2026.01.15* |  Elasticsearch와 Kibana를 활용한 우리카드 데이터 분석 및 잠재 고객 유치 전략 수립  |  금융 카드 실무 데이터  | [금융 소비 데이터 시각화](https://github.com/janie71/ELK-Financial-Customer-Insight.git)   |
 
 
+### ☁️ AWS Security Projects
+
+| **Project**        | **Terms**            | **Topic**                                       | **GitHub**                                                                 |
+|----------------------|:------------------:|:---------------------------------------------:|:-----------------------------------------------------------------------------:|
+|   AWS 보안 서비스 기반 침해 대응 자동화   | *2023.10.26 ~ 2024.01.06* | AWS 보안 서비스를 활용한 침해 대응 자동화 아키텍처 설계 프로젝트  | [aws 보안 자동화 아키텍쳐](https://github.com/janie71/aws-automated-security-tools.git)   |
+
+
 ### ⚙️ Infrastructure / DevOps Learning
 
 | **Terms**            | **Topic**                                       | **GitHub**                                                                 |
 |:------------------:|:---------------------------------------------:|:-----------------------------------------------------------------------------:|
 | *2026.01.07* |  Java Stream API 설명과 Stream API 사용 시 주의해야 할 7가지  | [Java-Stream](https://github.com/janie71/Java-Stream.git)   |
 | *2026.03.19* |  Linux 명령어 퀴즈 CLI 프로그램  | [Linux command](https://github.com/janie71/linux-lab.git)   |
-
-
-### ☁️ AWS Security Projects
-
-| **Project**        | **Terms**            | **Topic**                                       | **GitHub**                                                                 |
-|----------------------|:------------------:|:---------------------------------------------:|:-----------------------------------------------------------------------------:|
-|   AWS 보안 서비스 기반 침해 대응 자동화   | *2023.10.26 ~ 2024.01.06* | AWS 보안 서비스를 활용한 침해 대응 자동화 아키텍처 설계 프로젝트  | [aws 보안 자동화 아키텍쳐](https://github.com/janie71/aws-automated-security-tools.git)   |
 
 
 ---
