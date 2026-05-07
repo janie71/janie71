@@ -9,7 +9,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=ffdfea&height=200&section=header&text=Hi+there!+I'm+Yujin&desc=Cloud+Engineer+💻&fontSize=45&descAlignY=65&descAlign=50" alt="Header"/>
 
 ## 📚 Education
-* 인하대학교 정보통신공학과 졸업예정 2022.02~2026.08
 * 화이트햇스쿨 1기 수료 2023.09~2024.02
 * 우리 FISA 6기 2025.12.30~
 * 10년 내에 취업 예정
