@@ -31,6 +31,7 @@
 
 | **Project**        | **Terms**            | **Topic**                                       | **Data**                     | **GitHub**                                                                 |
 |----------------------|:------------------:|:---------------------------------------------:|:------------------------------:|:-----------------------------------------------------------------------------:|
+|   송금 및 환전, AI 서류 분석, 번역   | *2026.04.23~06.19* |  외국인 근로자를 위한 클라우드 종합 금융 플랫폼 Global Bridge  |  -  | [Global Bridge](https://github.com/Sangam-Beavers)   |
 |   n8n, ELK Stack    | *2026.01.12~01.23* |  n8n과 ELK Stack을 활용한 결제 승인/매입 데이터 자동 대사(Reconciliation) 및 시각화 파이프라인 구축 프로젝트  |  -  | [결제 승인/매입 데이터 자동화](https://github.com/WooriFISA-n8n-team/n8n-project.git)   |
 |   ELK기반 우리카드 잠재 고객 분석 프로젝트    | *2026.01.15* |  Elasticsearch와 Kibana를 활용한 우리카드 데이터 분석 및 잠재 고객 유치 전략 수립  |  금융 카드 실무 데이터  | [금융 소비 데이터 시각화](https://github.com/janie71/ELK-Financial-Customer-Insight.git)   |
 
@@ -53,6 +54,7 @@
 ---
 
 ## 📚 Certification
+* **정보처리기사**
 * **AWS Certified Cloud Practitioner (CLF-C02)**
 * **SQLD**
 * **TOEIC Speaking IH**
@@ -60,5 +62,5 @@
 
 ## 📚 Education
 * 화이트햇스쿨 1기 수료 2023.09~2024.02
-* 우리 FISA 6기 2025.12.30~
+* 우리 FISA 6기 2025.12.30~2026.06.25
 
